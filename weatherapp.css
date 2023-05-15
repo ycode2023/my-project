@@ -1,0 +1,91 @@
+.app-border{
+    border: 1px  solid rgb(254, 186, 15);
+    padding: 10px;
+    margin: 10px;
+    max-width: 560px;
+    border-radius: 10px;
+}
+
+.btn{
+margin-bottom: 3px;
+ font-family: 'Playfair Display', serif;
+}
+
+.searchbar{
+    border-color: rgb(254, 186, 15);
+    border-radius: 10px;
+    border-width: 1px;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 20px;
+    max-width: 350px;
+}
+
+
+h1, h2, h3{
+    font-weight: lighter;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    display: inline;
+}
+ul{list-style-type: none;
+padding-left: 45px;}
+
+.temp-description {
+    font-size: 20px;
+     font-family: 'Playfair Display', serif;
+     margin: left;
+}
+
+.today{
+    padding-left: 100px;
+     font-family: 'Playfair Display', serif;
+}
+
+.morning{
+    position: relative;
+    top: -555px;
+    left: 130px;
+}
+
+.afternoon{
+    position: relative;
+    top: -458px;
+    left: 75px;
+}
+.evening{
+    position: relative;
+    top: -360px;
+    left: 20px;
+    height: 60px;
+}
+
+.person{
+    position: relative; 
+    top: -400px;
+    right:-200px;
+    height: 200px;
+}
+
+.fashion-tip{
+    padding-left: 50px;
+    width: 550px;
+     font-family: 'Playfair Display', serif;
+}
+
+.bulb{
+    position: relative;
+    top: -270px;
+    right: 260px;
+}
+
+.line{
+    color:rgb(254, 186, 15);
+    width: 530px;
+    height: 8px;
+    background-color: rgb(254, 186, 15);
+}
+
+.week{
+    padding-left: 70px;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
